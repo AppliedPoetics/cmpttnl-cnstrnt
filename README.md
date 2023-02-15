@@ -43,8 +43,9 @@ Mainly, what kinds of choices can we engineer the model to make and how can we a
 
 * Learn to interact with LLM through the practice of prompt engineering
 * Refine skills in prompt engineering to increase efficacy and quality of output
-* Discover exploitable boundaries in LLM generation
-* Develop a model of on constraint as an enabling practice
+* Discover exploitable boundaries in LLM generation and what these opportunities offer
+* Begin a discussion of the roles and meaning assigned to language as an expressive tool and technology
+
 
 ## Outcomes
 
@@ -55,11 +56,20 @@ Mainly, what kinds of choices can we engineer the model to make and how can we a
 
 It is up to you _whether or not_ you reveal your constraint in either of your pieces. However, take heart -- as the authors of the _noulipean Analects_ write:
 
-> ...if the constraint can be used by other writers, it is Oulipean-wise to reveal it.
-
-Though generally against even _my_ better nature, I'd err in _revealing it_ and attaching it to your final poems in some way shape or form (e.g. as a title or some other artifact of the process).
 
 ## Process
+
+### Using ChatGPT
+
+ChatGPT is an interface that allows you to use the prompt you’ve engineered and, failing excellent results, to chat with the model and encourage it to make changes that conform to your expected constraint.
+
+I advise you to be kind to the model, even if it is just an LLM.
+
+ChatGPT is [available here](https://chat.openai.org)
+
+### Using code provided
+
+ChatGPT is undergoing both rapid change to a subscription model and varying levels of actual availability (due to performance load). To make this assignment possible, the assignment repository offers code that interfaces with the GPT-3 back-end (not chat, per se). To use this, obtain a key from your instructor to place in a .env file in the main folder of your repository.
 
 This repository contains three (3) files essential to making this assignment "happen". They are all contained in the `src` folder.
 
