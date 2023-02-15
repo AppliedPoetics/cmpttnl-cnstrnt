@@ -1,4 +1,4 @@
-# Prompt 1: Constraint Engineering
+# cmpttnl cnstrnt: An exercise in Constraints and Prompt Engineering
 
 > With a good ventriloquist ... [the] puppet seems to come alive and seems to be aware of its world.
 >
