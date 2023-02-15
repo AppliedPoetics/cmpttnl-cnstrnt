@@ -1,4 +1,4 @@
-# Prompt 1: Computational Constraint
+# Prompt 1: Constraint Engineering
 
 > With a good ventriloquist ... [the] puppet seems to come alive and seems to be aware of its world.
 >
@@ -84,3 +84,12 @@ If operating on a "found" text (i.e. one you creatively pirated from elsewhere),
 ### `main.py`
 
 The program behind communicating with the GPT-3 API. This file requires the creation of an `.env` file, the values and specifications of which will be provided in class during either the session or the lab.
+
+### `.env`
+
+You will need to make a file called `.env` in the same directory as this Python file. Here, you should adopt the following format:
+
+```
+OPEN_AI_KEY={KEY PROVIDED BY INSTRUCTOR}
+OPEN_AI_ORG={ORG PROVIDED BY INSTRUCTOR}
+```
