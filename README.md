@@ -1,5 +1,9 @@
 # cmpttnl cnstrnt: An exercise in Constraints and Prompt Engineering
 
+<a target="_blank" href="https://colab.research.google.com/github/AppliedPoetics/cmpttnl-cnstrnt/blob/main/cmpttnl_cnstrnt.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 > With a good ventriloquist ... [the] puppet seems to come alive and seems to be aware of its world.
 >
 > Michael Graziano, in _Do Large Language Models Understand Us?_ (Blaise Agüera y Arcas)
