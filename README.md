@@ -58,9 +58,6 @@ Mainly, what kinds of choices can we engineer the model to make and how can we a
     * 1 enacting a constraint only possible using GPT-3
 * A journal of various prompts attempted with brief notes about relative success or failure (include in `writing/prompts.md`)
 
-It is up to you _whether or not_ you reveal your constraint in either of your pieces. However, take heart -- as the authors of the _noulipean Analects_ write:
-
-
 ## Process
 
 ### Using ChatGPT
